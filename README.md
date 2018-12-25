@@ -1,4 +1,4 @@
-# ITa elmélet
+# ITa elmélet (két év alatt 72 óra)
 
 1. Általános munkabiztonsági előírások, szabályok.
 1. Számítógépek és nyomtatók szerelésének érintésvédelmi irányelvei.
