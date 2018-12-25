@@ -2,7 +2,8 @@
 (két év alatt 72 óra)
 Felhasznált forrás: Göcs László Neumann János Egyetem http://www.gocslaszlo.hu/
 https://www.nive.hu/Downloads/Szakkepzesi_dokumentumok/Szakkepzesi_kerettantervek_2018/DL.php?f=073_54_481_06_Informatikai_rendszeruzemelteto.docx
-
+        3.3. Témakörök
+            3.3.1. Munka- és környezetvédelmi alapismeretek
 1. Általános munkabiztonsági előírások, szabályok.
 1. Számítógépek és nyomtatók szerelésének érintésvédelmi irányelvei.
 1. Tűzvédelmi irányelvek, elektromos tüzek oltása.
@@ -10,6 +11,8 @@ https://www.nive.hu/Downloads/Szakkepzesi_dokumentumok/Szakkepzesi_kerettanterve
 1. Tápfeszültség anomáliái és veszélyei, túlfeszültség védelmi eszközök.
 1. Anyagbiztonsági adatlap (MSDS) funkciója, információi.
 1. Elektronikus hulladékok kezelése.
+
+            3.3.2. Bevezetés a számítógépes architektúrákba
 1. **Kettes- és tizenhatos számrendszer.**
 1. **Neumann-elvű számítógép felépítése.**
 1. Hardver és firmware fogalma.
@@ -40,6 +43,7 @@ https://www.nive.hu/Downloads/Szakkepzesi_dokumentumok/Szakkepzesi_kerettanterve
 1. Energiagazdálkodási beállítások, APM és ACPI szabványok.
 
 
+            3.3.3. Szoftverismeret
 1. Szoftver fogalma, szoftverek csoportosítása.
 1. Zárt- é nyílt forráskódú rendszerek, GPL.
 1. Operációs rendszer fogalma, feladatai.
@@ -62,6 +66,7 @@ https://www.nive.hu/Downloads/Szakkepzesi_dokumentumok/Szakkepzesi_kerettanterve
 1. Adatok szinkronizációja, felhő szolgáltatások.
 1. Hibakeresési folyamat lépései.
 
+            3.3.4. Információtechnológia biztonság alapjai
 1. Rosszindulatú szoftverek (vírus, trójai, féreg, adware, spyware).
 1. Védekezési módok a rosszindulatú szoftverek ellen.
 1. Támadástípusok (felderítés, DoS, DDoS, hozzáférési támadás).
