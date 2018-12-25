@@ -8,10 +8,10 @@
 1. Anyagbiztonsági adatlap (MSDS) funkciója, információi.
 1. Elektronikus hulladékok kezelése.
 1. **Kettes- és tizenhatos számrendszer.**
-1. Neumann-elvű számítógép felépítése.
+1. **Neumann-elvű számítógép felépítése.**
 1. Hardver és firmware fogalma.
-1. Számítógép házak és tápegységek.
-1. Processzortípusok, foglalatok.
+1. **Számítógép házak és tápegységek.**
+1. **Processzortípusok, foglalatok.**
 1. Hőelvezetési technológiák.
 1. Memóriák típusai, memória modulok, memóriahibák kezelése.
 1. Illesztőkártyák és csatlakozási felületeik.
