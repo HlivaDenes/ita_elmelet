@@ -3,7 +3,7 @@
 Felhasznált forrás: Göcs László Neumann János Egyetem http://www.gocslaszlo.hu/
 https://www.nive.hu/Downloads/Szakkepzesi_dokumentumok/Szakkepzesi_kerettantervek_2018/DL.php?f=073_54_481_06_Informatikai_rendszeruzemelteto.docx
 
-3.3. Témakörök
+    3.3. Témakörök
             3.3.1. Munka- és környezetvédelmi alapismeretek
 1. Általános munkabiztonsági előírások, szabályok.
 1. Számítógépek és nyomtatók szerelésének érintésvédelmi irányelvei.
