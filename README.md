@@ -1,25 +1,17 @@
 #ITa elmélet
 
-Általános munkabiztonsági előírások, szabályok.
+1 Általános munkabiztonsági előírások, szabályok.
+1 Számítógépek és nyomtatók szerelésének érintésvédelmi irányelvei.
+1 Tűzvédelmi irányelvek, elektromos tüzek oltása.
 
-Számítógépek és nyomtatók szerelésének érintésvédelmi irányelvei.
-
-Tűzvédelmi irányelvek, elektromos tüzek oltása.
-
-Elektrosztatikus kisülés (ESD) veszélyei.
-
-Tápfeszültség anomáliái és veszélyei, túlfeszültség védelmi eszközök.
+2. Elektrosztatikus kisülés (ESD) veszélyei.
+3. Tápfeszültség anomáliái és veszélyei, túlfeszültség védelmi eszközök.
 
 Anyagbiztonsági adatlap (MSDS) funkciója, információi.
-
 Elektronikus hulladékok kezelése.
-
 Kettes- és tizenhatos számrendszer.
-
 Neumann-elvű számítógép felépítése.
-
 Hardver és firmware fogalma.
-
 Számítógép házak és tápegységek.
 Processzortípusok, foglalatok.
 Hőelvezetési technológiák.
