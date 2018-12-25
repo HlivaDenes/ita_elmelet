@@ -1,8 +1,8 @@
 #ITa elmélet
 
-1 Általános munkabiztonsági előírások, szabályok.
-1 Számítógépek és nyomtatók szerelésének érintésvédelmi irányelvei.
-1 Tűzvédelmi irányelvek, elektromos tüzek oltása.
+1. Általános munkabiztonsági előírások, szabályok.
+1. Számítógépek és nyomtatók szerelésének érintésvédelmi irányelvei.
+1. Tűzvédelmi irányelvek, elektromos tüzek oltása.
 
 2. Elektrosztatikus kisülés (ESD) veszélyei.
 3. Tápfeszültség anomáliái és veszélyei, túlfeszültség védelmi eszközök.
