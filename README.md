@@ -7,7 +7,7 @@
 1. Tápfeszültség anomáliái és veszélyei, túlfeszültség védelmi eszközök.
 1. Anyagbiztonsági adatlap (MSDS) funkciója, információi.
 1. Elektronikus hulladékok kezelése.
-1. Kettes- és tizenhatos számrendszer.
+1. _Kettes- és tizenhatos számrendszer._
 1. Neumann-elvű számítógép felépítése.
 1. Hardver és firmware fogalma.
 1. Számítógép házak és tápegységek.
