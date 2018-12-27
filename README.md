@@ -81,3 +81,52 @@ https://www.nive.hu/Downloads/Szakkepzesi_dokumentumok/Szakkepzesi_kerettanterve
 1. Tűzfalak feladata, típusai.
 1. Mobil eszközök védelme, biometrikus azonosítási módszerek.
 1. IT eszközök fizikai védelme.
+
+
+#### FELADATOK
+1. Számítógépes konfigurációt meghatároz
+1. LAN/WAN hálózatokat használ
+1. Angol nyelvű műszaki leírásokat értelmez
+
+#### SZAKMAI ISMERETEK
+1. Információtechnológiai alapfogalmak
+1. Kettes, tizenhatos számrendszer
+1. Számítógép főbb részei
+1. Mobil eszközök hardverelemei
+1. BIOS funkciók
+1. Processzorok és típusaik
+1. Memóriák és típusaik
+1. Perifériák
+1. Portok és típusaik
+1. Adattovábbítási módszerek
+1. Asztali, hálózati és mobil operációs rendszerek
+1. Multi-boot környezet
+1. Virtuális gép, hypervisor
+1. GUI és CLI felhasználói felületek
+1. Fájlok, mappák kezelése, megosztása
+1. Fájlrendszerek, jogok és attribútumok
+1. Partíciók típusai, particionálás
+1. Folyamat- és processzorkezelés
+1. Hálózati csatolóegység feladatai és konfigurációja
+1. Alkalmazások telepítése, kompatibilitási mód
+1. Levelezési protokollok
+1. Modern biztonsági fenyegetések
+1. Biztonsági mentések típusai, adatbiztonság, RAID, biztonsági hardver- és szoftvereszközök
+1. Felhőszolgáltatások
+1. Nyomtatók típusai, nyomtatáskezelés
+1. Hálózati nyomtatás, nyomtató megosztás
+1. Felügyeleti eszközök
+1. ESD védelem szükségességének okai
+1. Angol nyelvű szakmai kifejezések
+1. Munka-, baleset-, tűz- és környezetvédelmi előírások
+
+
+#### SZEMÉLYES KOMPETENCIÁK
+1. Pontosság
+1. Precizitás
+
+#### TÁRSAS KOMPETENCIÁK
+1. Együttműködés
+
+#### MÓDSZERKOMPETENCIÁK
+1. Ismeretek helyénvaló alkalmazása
